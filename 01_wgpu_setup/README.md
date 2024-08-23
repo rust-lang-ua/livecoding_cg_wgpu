@@ -14,7 +14,7 @@ cargo run
 - [Tour of WGSL]
 - [WebGPU Explainer]
 ---
-![Perlin Noise](/assets/01/perlin.gif)
+![Perlin Noise](/assets/perlin.jpg)
 
 [Learn Wgpu]: https://sotrh.github.io/learn-wgpu/
 [Wgpu crate]: https://docs.rs/wgpu/latest/wgpu/

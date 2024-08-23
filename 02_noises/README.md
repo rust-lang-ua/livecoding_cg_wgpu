@@ -12,7 +12,7 @@ cargo run
 - [More noises]
 - [WGSL Specification]
 ---
-![Domain warp](/assets/02/domain_warp.gif)
+![Domain warp](/assets/domain_warp.jpg)
 
 [Inigo Quilez]: https://iquilezles.org/
 [Book of shaders]: https://thebookofshaders.com/
