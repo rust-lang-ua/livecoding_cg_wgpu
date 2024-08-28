@@ -20,6 +20,6 @@ cargo run
 [WGSL memory layouts]: https://www.w3.org/TR/WGSL/#memory-layouts
 [WGSL offset computer]: https://webgpufundamentals.org/webgpu/lessons/resources/wgsl-offset-computer.html#
 [Tiny OBJ Loader]: https://crates.io/crates/tobj
-[Models from Computer Graphics Archive]: (https://casual-effects.com/data)
-[glam - 3d math library]: (https://crates.io/crates/glam)
-[cgmath - 3d math library for Opengl]: (https://crates.io/crates/cgmath)
+[Models from Computer Graphics Archive]: https://casual-effects.com/data
+[glam - 3d math library]: https://crates.io/crates/glam
+[cgmath - 3d math library for Opengl]: https://crates.io/crates/cgmath
