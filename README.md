@@ -11,11 +11,14 @@ cargo run -p step_01
 - [Live][Live 01] | [01. Wgpu setup][Step 01]
 - [Live][Live 02] | [02. Noises][Step 02] 
 - [Live][Live 03] | [03. Camera][Step 03] 
+- [Live][Live 04] | [04. Textures][Step 04] 
 
 [Step 01]: 01_wgpu_setup
 [Step 02]: 02_noises
 [Step 03]: 03_camera
+[Step 04]: 04_textures
 
 [Live 01]: https://www.youtube.com/watch?v=ViZR4N6dqPQ
 [Live 02]: https://www.youtube.com/watch?v=51aQNFkl6I0
 [Live 03]: https://www.youtube.com/watch?v=zL8Q0ij6LzM
+[Live 04]: https://www.youtube.com/watch?v=xhgZu4Sr1Ig
