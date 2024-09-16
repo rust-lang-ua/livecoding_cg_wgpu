@@ -1,25 +1,21 @@
-<!-- ## 3D with camera
+## Textures
 
-To start the program you need to have cargo installed, and then run the following comand in the root directory:
+To start the program you need to have cargo installed, and then run the following comand in the current directory:
 ```
 cargo run
 ```
 
 ## Useful links
-- [Three.js camera tutorial]
-- [WGSL memory layouts]
-- [WGSL offset computer]
-- [Tiny OBJ Loader]
-- [Models from Computer Graphics Archive]
-- [glam - 3d math library]
-- [cgmath - 3d math library for Opengl]
+- [Wgpu example: Skybox]
+- [Sky box texture]
+- [OpenGL basics: Depth/Stencil]
+- [OpenGL tutorial: Depth testing]
+- [Cosine gradient]
 ---
-![Domain warp](/assets/3d_rabbit.jpg)
+![Domain warp](/assets/sky_box_rabbit.jpg)
 
-[Three.js camera tutorial]: https://threejs.org/manual/#en/cameras
-[WGSL memory layouts]: https://www.w3.org/TR/WGSL/#memory-layouts
-[WGSL offset computer]: https://webgpufundamentals.org/webgpu/lessons/resources/wgsl-offset-computer.html#
-[Tiny OBJ Loader]: https://crates.io/crates/tobj
-[Models from Computer Graphics Archive]: https://casual-effects.com/data
-[glam - 3d math library]: https://crates.io/crates/glam
-[cgmath - 3d math library for Opengl]: https://crates.io/crates/cgmath -->
+[Wgpu example: Skybox]: https://github.com/gfx-rs/wgpu/tree/trunk/examples/src/skybox
+[Sky box texture]: https://opengameart.org/content/cloudy-skyboxes
+[OpenGL basics: Depth/Stencil]: https://open.gl/depthstencils
+[OpenGL tutorial: Depth testing]: https://learnopengl.com/Advanced-OpenGL/Depth-testing
+[Cosine gradient]: http://dev.thi.ng/gradients/

@@ -1,6 +1,6 @@
 ## Basic wgpu setup with simple Perlin noise animation
 
-To start the program you need to have cargo installed, and then run the following comand in the root directory:
+To start the program you need to have cargo installed, and then run the following comand in the current directory:
 ```
 cargo run
 ```
